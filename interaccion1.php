@@ -14,7 +14,7 @@
 
 		$n2 =  $_GET["num2"];
 
-
+		//Luz roja luz verde :) git 
 		echo "<h1>HSuma de los numeros</h1>";
 
 
